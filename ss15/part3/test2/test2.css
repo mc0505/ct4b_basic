@@ -1,0 +1,18 @@
+#rect {
+    width: 500px;
+    height: 200px;
+    background-color:pink;
+    
+}
+#text {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(100, 3, 19);
+    
+}
+.box {
+    width: 300px;
+    height:200px;
+    background-color: rgb(100, 3, 19);
+    margin: 16px;
+}
